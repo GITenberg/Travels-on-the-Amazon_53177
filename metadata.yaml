@@ -1,5 +1,8 @@
 _repo: Travels-on-the-Amazon_53177
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53177-h/images/cover.jpg
 creator:
   author:
     agent_name: Wallace, Alfred Russel
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/955
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Russel_Wallace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53177#Travels-on-the-Amazon
 gutenberg_issued: '2016-09-30'
 gutenberg_type: Text
 identifiers:
